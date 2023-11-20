@@ -8,12 +8,10 @@ An Augmented Reality repository with AR.js for improving learning
 * [Animal cell v1](/source/animal_cell01.html)
 * [Animal cell v2](/source/animal_cell02.html)
 * [Animal cell v3](/source/animal_cell03.html)
-* [Animal cell v4](/source/animal_cell04.html)
 * [Mitochondrio v1](/source/mitochondria.html)
 * [Neuron cells](/source/neuron_cells.html)
 * [Plant cell v1 (with english tags)](/source/plant_cell01.html)
 * [Plant cell v2](/source/plant_cell02.html)
-* [Plant cell v3](/source/plant_cell03.html)
 
 
 
