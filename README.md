@@ -21,6 +21,6 @@ An Augmented Reality repository with AR.js for improving learning
 * **Mitochondrio** v1 by: [Vida Systems](https://sketchfab.com/3d-models/mitochondria-cell-organelles-397631a85faa487ba1f1cc4fe5e1b7e3)
 * **Neuron cells** v1 by: [ryannsoup](https://sketchfab.com/3d-models/neuronal-cell-environment-11fc6dbcc1594e9a806601bb7480f315)
 * **Plant cell** v1 by: [brianj.seely](https://sketchfab.com/3d-models/plant-cell-caa4a71203254d979bb8f200a8f96eab)
-* **Plant cell** v1 by: [Al-Deezel](https://sketchfab.com/3d-models/plant-cell-a7e1a886fe9d49589878a255446837a4)
+* **Plant cell** v2 by: [Al-Deezel](https://sketchfab.com/Al-dezel)
 
 ### Under Construction
