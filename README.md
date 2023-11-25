@@ -14,6 +14,13 @@ An Augmented Reality repository with AR.js for improving learning
 * [Plant cell v1 (with english tags)](/source/plant_cell01.html)
 * [Plant cell v2](/source/plant_cell02.html)
 
-
+### Credits for the 3D models
+* [montanna](https://sketchfab.com/3d-models/animal-cell-20-annotated-in-english-0d9f7f4257224975b2ef83a283709b2f)
+* [Lauri Purhonen](https://sketchfab.com/3d-models/animal-cell-downloadable-ddc40bb0900544959f02d3ff83c32615)
+* [Forged1212](https://sketchfab.com/3d-models/animal-cell-abaa9a651c834cdaa67072b32fb0024f)
+* [Vida Systems](https://sketchfab.com/3d-models/mitochondria-cell-organelles-397631a85faa487ba1f1cc4fe5e1b7e3)
+* [ryannsoup](https://sketchfab.com/3d-models/neuronal-cell-environment-11fc6dbcc1594e9a806601bb7480f315)
+* [brianj.seely](https://sketchfab.com/3d-models/plant-cell-caa4a71203254d979bb8f200a8f96eab)
+* [Al-Deezel](https://sketchfab.com/3d-models/plant-cell-a7e1a886fe9d49589878a255446837a4)
 
 ### Under Construction
