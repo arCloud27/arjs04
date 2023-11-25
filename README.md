@@ -2,7 +2,8 @@
 An Augmented Reality repository with AR.js for improving learning
 
 ### Step 01
-* Download and print the [marker](https://commons.wikimedia.org/wiki/File:Hiro_marker_ARjs.png)
+* Download and print the **animal cell marker** ([png](/assets/print/animal_cell.png) or [pdf](/assets/print/animal_cell.pdf))
+* Download and print the **plant cell marker** ([png](/assets/print/plant_cell.png) or [pdf](/assets/print/plant_cell.pdf))
 
 ### Step 02
 * [Animal cell v1](/source/animal_cell01.html)
