@@ -1,5 +1,5 @@
 # arjs04
-An Augmented Reality repository with AR.js for improving learning
+An Augmented Reality repository with AR.js for improving learning. The current educational intervention will take place in the 6th grade of the Primary School, specifically in the subject of Physics.
 
 ### Step 01
 * Download and print the **animal cell marker** ([png](/assets/print/animal_cell.png) or [pdf](/assets/print/animal_cell.pdf))
@@ -23,4 +23,4 @@ An Augmented Reality repository with AR.js for improving learning
 * **Plant cell** v1 by: [brianj.seely](https://sketchfab.com/3d-models/plant-cell-caa4a71203254d979bb8f200a8f96eab)
 * **Plant cell** v2 by: [Al-Deezel](https://sketchfab.com/Al-dezel)
 
-### Under Construction
+### The educational intervention is Under Construction
