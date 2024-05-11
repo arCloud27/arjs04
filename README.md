@@ -23,4 +23,5 @@ An Augmented Reality repository with AR.js for improving learning. The current e
 * **Plant cell** v1 by: [brianj.seely](https://sketchfab.com/3d-models/plant-cell-caa4a71203254d979bb8f200a8f96eab)
 * **Plant cell** v2 by: [Al-Deezel](https://sketchfab.com/Al-dezel)
 
-### The educational intervention is under the [CC BY-NC-SA 3.0 GR](https://creativecommons.org/licenses/by/3.0/deed.el) license
+### The educational intervention is under the [CC BY-NC-SA 3.0 GR](https://creativecommons.org/licenses/by/3.0/deed.el) license (Creative Commons
+Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 3.0 Ελλάδα)
